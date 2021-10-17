@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="add_button">Add Button</string>
+    <string name="searchTask">Search Tasks</string>
+    <string name="sortTask">Sort Task</string>
+    <string name="delete_all_tasks">Delete All</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="search_placeholder">Search</string>
+    <string name="sad_face_icon">Sad Face Icon</string>
+    <string name="empty_content">No Task Found</string>
+    <string name="back_arrow">Back arrow</string>
+    <string name="add_task">Add Task</string>
+    <string name="close_action">Close Icon</string>
+    <string name="delete_icon">Delete Icon</string>
+    <string name="update_icon">Update Icon</string>
+    <string name="drop_down_icon">Drop Down Arrow Icon</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="confirm_yes">Yes</string>
+    <string name="confirm_No">No</string>
+    <string name="delete_task">Remove \'%1$s\'?</string>
+    <string name="delete_task_confirmation">Are you sure you want to remove this \'%1$s\'?</string>
+    <string name="delete_all_task">Remove All Tasks?</string>
+    <string name="delete_all_task_confirmation">Are you sure you want to remove all Tasks? There is no going back after this action</string>
+    <string name="logo">image_logo</string>
+</resources>
